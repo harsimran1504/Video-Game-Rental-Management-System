@@ -1,0 +1,41 @@
+GameID,Rating,Comments
+witcher01,5,Amazing storyline and immersive world!
+tlou02,4,Great gameplay but the ending felt rushed.
+halo01,4,Excellent multiplayer experience.
+gtav01,5,Incredible open-world game with endless possibilities.
+madden01,3,Decent gameplay but lacks innovation.
+fifa01,4,Realistic and enjoyable football simulation.
+zelda01,5,Masterpiece of game design and adventure.
+spiderman01,5,Fluid combat and engaging storyline.
+ffxv01,4,Beautiful graphics and enjoyable combat mechanics.
+gow01,4,Action-packed and gripping narrative.
+witcher02,5,Consistently brilliant throughout the game!
+tlou01,5,Emotionally intense and gripping storyline.
+madden02,3,Solid sports game but needs fresh features.
+fifa02,4,Improved mechanics and smooth gameplay.
+spiderman02,5,Excellent continuation with new challenges.
+zelda02,5,Another journey worth every minute!
+halo02,4,Strong campaign and addictive multiplayer.
+gtav02,5,Still a benchmark for open-world games!
+ffxv02,3,Good, but didn't quite meet expectations.
+uncharted01,5,Unforgettable action-adventure experience!
+cod01,4,Exciting gameplay, but story lacks depth.
+cod02,5,Adrenaline-filled and captivating storyline.
+mario01,5,Classic platformer, never gets old!
+mario02,5,Timeless fun and creativity in each level!
+uncharted02,4,Great adventure, although pacing felt off.
+gow02,5,Continues to deliver on action and thrill.
+mario03,4,Another great addition, though felt repetitive.
+cod03,4,Intense action, wished for more innovation.
+witcher01,4,Good Game.
+mario03,4,Very fun to play.
+halo02,4,Great graphics.
+madden02,2,Graphics are not great.
+zelda01,4,Very nice game. Would recommend!
+gow02,2,Mediocre game. Not that great.
+tlou02,5,Brilliant game. The best I've ever played.
+madden01,2,Wasn't very happy with the gameplay. Lots of bugs.
+spiderman01,5,Best game I've played. Great storyline!
+mario03,4,Very fun game to play. Really enjoyed!
+ffxv01,2,Expected better from the game. Dissapointed
+ffxv01,2,Not what I wished for. Gameplay was decent.

@@ -1,0 +1,29 @@
+ID,Platform,Genre,Title,Publisher,PurchaseDate
+witcher01,PlayStation,RPG,The Witcher 3: Wild Hunt,CD Projekt,2022-09-19
+tlou02,PlayStation,Action,The Last of Us,Sony Interactive,2023-02-22
+halo01,Xbox,Shooter,Halo,Microsoft Studios,2023-08-03
+gtav01,Xbox,Action-adventure,Grand Theft Auto V,Rockstar Games,2023-10-07
+madden01,Xbox,Sports,Madden NFL,EA Sports,2023-09-10
+fifa01,Xbox,Sports,FIFA,EA Sports,2022-07-20
+zelda01,Nintendo,Action-adventure,The Legend of Zelda,Nintendo,2023-11-28
+spiderman01,PlayStation,Action,Spider-Man,Sony Interactive,2023-03-14
+ffxv01,Xbox,RPG,Final Fantasy XV,Square Enix,2023-09-15
+gow01,PlayStation,Action,Gears of War,Sony Interactive,2022-11-02
+witcher02,Xbox,RPG,The Witcher 3: Wild Hunt,CD Projekt,2023-01-05
+tlou01,PlayStation,Action,The Last of Us,Sony Interactive,2023-05-18
+madden02,PlayStation,Sports,Madden NFL,EA Sports,2023-07-01
+fifa02,PlayStation,Sports,FIFA,EA Sports,2023-03-05
+spiderman02,PlayStation,Action,Spider-Man,Sony Interactive,2023-12-01
+zelda02,Nintendo,Action-adventure,The Legend of Zelda,Nintendo,2023-06-08
+halo02,Xbox,Shooter,Halo,Microsoft Studios,2023-11-19
+gtav02,PlayStation,Action-adventure,Grand Theft Auto V,Rockstar Games,2023-08-12
+ffxv02,PlayStation,RPG,Final Fantasy XV,Square Enix,2023-07-30
+uncharted01,PlayStation,Action-adventure,Uncharted,Sony Interactive,2023-04-20
+cod01,Xbox,Shooter,COD,Activision,2022-05-15
+cod02,PlayStation,Shooter,COD,Activision,2023-01-10
+mario01,Nintendo,Platformer,Super Mario,Nintendo,2022-12-28
+mario02,Nintendo,Platformer,Super Mario,Nintendo,2023-06-14
+uncharted02,PlayStation,Action-adventure,Uncharted,Sony Interactive,2022-12-10
+gow02,PlayStation,Action,Gears of War,Sony Interactive,2023-04-25
+mario03,Nintendo,Platformer,Super Mario,Nintendo,2023-08-25
+cod03,Xbox,Shooter,COD,Activision,2023-03-02
